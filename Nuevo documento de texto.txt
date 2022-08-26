@@ -1,0 +1,10 @@
+BASE DE DATOS DEL PROYECTO
+
+1- Crear un componente de conexión con IndexedDb
+
+2 - Cuando el state "items" del STORE cambie, se actualizará el indexedDb
+
+3- Cuando la página se renderice "items" se nutrirá del IndexedDb
+
+Esas son las únicas conexiones necesarias. Ya hay una estructura en STORE que hace todo el trabajo. La única deficiencia es
+que no guarda información al renderizar nuevamente.
