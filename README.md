@@ -5,3 +5,5 @@ Esta aplicación está hecha en React.
 Actualizaciones tentativas: 
 - Necesidad de conectar las interacciones con una base de datos. Así cada usuario va a poder cargar nuevamente su album después de cerrar la página. Además vamos a proponer albunes pre cargados con diferentes temáticas
 - Buscador para encontrar y ordenar jugadores dentro de tu álbum.
+
+----> https://lucasp149.github.io/album
